@@ -1,6 +1,9 @@
 fedxa-gis
 ==============
-These are formulae for various GIS software
+These are formulae for various GIS software.
+
+* [Quantum GIS](http://qgis.org/)
+* [QLandkarte GT](http://www.qlandkarte.org/) 
 
 How do I install these formulae?
 --------------------------------
